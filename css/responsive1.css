@@ -1,0 +1,66 @@
+.achieve{
+    background-color: #f3f5fa;
+    margin-top: 100px;
+}
+.xx-small{
+    font-size: x-small;
+}
+
+
+.icon{
+    height: 90px;
+    width: 90px;
+}
+
+.icon-color-1{
+    background-color: #DBDAF4;
+}
+.icon-color-2{
+    background-color: #fcd4dc;
+}
+.icon-color-3{
+    background-color: #fef0d9;
+}
+.default{
+    background-color: #050ee5;
+}
+.text-default{
+    color: #4141A5;
+}
+.btn-discover{
+    background-color: #2FB652;
+    border-radius: 0px 15px 15px 0px;
+}
+.btn-discover-con{
+    margin-left: -8px;
+}
+
+.rect{
+    background-color: red;
+    border: 2px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.bttn{
+    color: #060FE6;
+}
+.cus{
+    position: relative;
+    bottom: 10vh;
+    left: 0;
+    }
+.ls{
+    letter-spacing: .1em;
+}
+
+.discover-input{
+    border-radius: 15px 0px 0px 15px;
+}
+
+
+
+@media only screen and (min-width: 375px) and (max-width: 991px){
+   
+    
+}
